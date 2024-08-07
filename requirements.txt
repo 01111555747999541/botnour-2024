@@ -40,6 +40,10 @@ tgcrypto
 unidecode
 yt-dlp>=2024.05.27
 youtube-search
-youtube-search-python
+pip install --upgrade aiofiles aiohttp apscheduler asyncio beautifulsoup4 dnspython emojis Faker ffmpeg-python gitpython -dlp.git gtts gpytranslate hachoir heroku3 httpx[http2] httpx==0.25.2 lyricsgenius motor numpy pillow psutil pycountry pydub pyfiglet py-tgcalls==0.9.7 pykeyboard pyrogram==2.0.106 python-dotenv pyyaml pytz qrcode requests search_engine_parser speedtest-cli spotipy telegraph tgcrypto unidecode 
+git+https://github.com/AsmSafone/SafoneAPI
+git+https://github.com/erdewit/nest_asyncio.git
+git+https://github.com/alexmercerind/youtube-search-python
+ youtube-search-python wget kvsqlite
 wget
 kvsqlite 
